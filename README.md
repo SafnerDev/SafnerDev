@@ -6,4 +6,4 @@
 - 🌐 My website is [safner.dev](safner.dev)
 - 💰 You can donate me on [Donate — safner.dev](donate.safner.dev)
 
-**You can contact me on my Bluesky**
+**You can contact me on my [Bluesky](https://bsky.app/profile/safner.dev)**
